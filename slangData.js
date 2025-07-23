@@ -54,6 +54,19 @@ const slangDataValues = [
     category: 'Problemas/Azar',
   },
   {
+    id: 'pcdm',
+    acronym: 'PCDM',
+    term: 'Pau Cheio de Merda',
+    definition:
+      'Expressão para descrever uma pessoa que ao fazer sexo anal ficou com o orgão masculino cheio de merda.',
+    examples: [
+      'Depois daquela daquele sexo bruto anal fiquei com o PCDM',
+    ],
+    context:
+      'Surgiu num dia em que tudo corria mal para um dos membros do grupo, desde problemas pessoais a contratempos inesperados, culminando numa série de situações embaraçosas.',
+    category: 'Problemas/Azar',
+  },
+  {
     id: 'ppp',
     acronym: 'PPP',
     term: 'Punheta Para o Papa',
